@@ -22,7 +22,7 @@ export default async function handler(req, res) {
     sha: sha
   }, {
     headers: {
-      Authorization: "token GITHUB_PERSONAL_ACCESS_TOKEN"
+      Authorization: "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"
     }
   });
 
